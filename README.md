@@ -1,7 +1,20 @@
-## Hi there 👋
+<!-- Languages -->
+<br/>
+<div>
+</div<img alt="Static Badge" src="https://img.shields.io/badge/C-brightgreen?style=for-the-badge&logo=c&logoColor=white">>
+</div<img alt="Static Badge" src="https://img.shields.io/badge/Python-blue?logo=python">>
+<br/>
+<div>
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+</div>
+
+- Currently studying software engineering at Codam (part of the 42 Network)
+- Hobbies include: game development, making music, learning japanese, endlessly tweaking my configurations
+- Always love connecting to and talking with new people!
+- (Reach out!)[mailto:ilaivanderveldt@gmail.com]
+
 
 <!--
-**Ilaivdv/Ilaivdv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
