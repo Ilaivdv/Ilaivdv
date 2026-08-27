@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
- <h1 align="center">=- About me -=</h1>
+<h1 align="center">=- About me -=</h1>
 - Currently studying software engineering at Codam (part of the 42 Network)
 - Hobbies include: game development, making music, learning japanese, endlessly tweaking my configurations
 - Always love connecting to and talking with new people!
