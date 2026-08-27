@@ -13,5 +13,5 @@
   <li>Currently studying software engineering at Codam (part of the 42 Network)</li>
   <li>Hobbies include: game development, making music, learning japanese, endlessly tweaking my configurations</li>
   <li>Always love connecting to and talking with new people!</li>
-  <li>[Reach out!](mailto:ilaivanderveldt@gmail.com)</li>
+  <li href"mailto:ilaivanderveldt@gmail.com">Reach out!</li>
 </ul>
