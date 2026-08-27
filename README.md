@@ -4,10 +4,8 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&logoSize=auto">
     <img alt="Static Badge" src="https://img.shields.io/badge/C-brightgreen?style=for-the-badge&logo=c&logoColor=white&logoSize=auto">
     <img alt="Static Badge" src="https://img.shields.io/badge/lua-darkblue?style=for-the-badge&logo=lua&logoColor=white&logoSize=auto">
-<br/>
-
 <!-- Other skills -->
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
 <h1 align="center">=- About me -=</h1>
