@@ -1,7 +1,7 @@
 <!-- Languages -->
 <br/>
 <div>
-<img src="https://img.shields.io/badge/-brightgreen%20-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/%20-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white&labelColor=brightgreen"/>
 <br/>
 <div>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
