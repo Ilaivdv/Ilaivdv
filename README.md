@@ -17,8 +17,8 @@
 </ul>
 
 <h1 align="center">-- Technologies I have used --</h1>
-<div align="center" style="color: white;">
-    <img src="https://github.com/Ilaivdv/Ilaivdv/blob/main/images/archlinux.svg" width="30"/>
+<div align="center">
+    <img src="https://github.com/Ilaivdv/Ilaivdv/blob/main/images/archlinux.svg" width="30" style="color: white;"/>
 </div>
 
 <h1 align="center">-- Reach out --</h1>
