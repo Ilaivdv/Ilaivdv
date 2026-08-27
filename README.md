@@ -16,10 +16,10 @@
   <!-- <li> <a href="mailto:ilaivanderveldt@gmail.com">Reach out!</a></li> -->
 </ul>
 
-<h2 align="center">-- Technologies I have used --</h2>
-<!-- <img src=""> -->
+<h1 align="center">-- Technologies I have used --</h1>
+<img src="https://github.com/Ilaivdv/Ilaivdv/tree/main/images/archlinux.svg" width="30">
 
-<h2 align="center">-- Reach out --</h2>
+<h1 align="center">-- Reach out --</h1>
 <br/>
 <div align="center">
     <p1>
