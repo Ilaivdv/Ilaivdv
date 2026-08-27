@@ -18,8 +18,10 @@
 
 <h1 align="center">-- Technologies I have used --</h1>
 <div align="center">
-<style> .container {color: white;} </style>
-<img src="https://github.com/Ilaivdv/Ilaivdv/blob/main/images/archlinux.svg" width="30"/>
+    <style> .container {color: white;}</style>
+    <div>
+        <img src="https://github.com/Ilaivdv/Ilaivdv/blob/main/images/archlinux.svg" width="30"/>
+    </div>
 </div>
 
 <h1 align="center">-- Reach out --</h1>
