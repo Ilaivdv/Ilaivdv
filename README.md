@@ -1,8 +1,8 @@
 <!-- Languages -->
 <br/>
 <div align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow&logoSize=auto">
-<img alt="Static Badge" src="https://img.shields.io/badge/-brightgreen?style=for-the-badge&logo=c&logoColor=white&logoSize=auto">
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&logoSize=auto">
+<img alt="Static Badge" src="https://img.shields.io/badge/C-brightgreen?style=for-the-badge&logo=c&logoColor=white&logoSize=auto">
 <img alt="Static Badge" src="https://img.shields.io/badge/lua-darkblue?style=for-the-badge&logo=lua&logoColor=white&logoSize=auto">
 <br/>
 <div align="center">
