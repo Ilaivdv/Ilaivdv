@@ -19,7 +19,7 @@
 <h1 align="center">-- Technologies I have used --</h1>
 <div align="center">
     <img src="https://github.com/Ilaivdv/Ilaivdv/blob/main/images/archlinux.svg" width="50"/>
-    <img src="https://github.com/Ilaivdv/Ilaivdv/blob/main/images/neovim.svg" width="50"/>
+    <img src="https://github.com/Ilaivdv/Ilaivdv/blob/main/images/neovim.svg" width="40"/>
     <img src="https://github.com/Ilaivdv/Ilaivdv/blob/main/images/github.svg" width="50"/>
     <img src="https://github.com/Ilaivdv/Ilaivdv/blob/main/images/huggingface.svg" width="50"/>
 </div>
