@@ -4,14 +4,27 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&logoSize=auto">
     <img alt="Static Badge" src="https://img.shields.io/badge/C-brightgreen?style=for-the-badge&logo=c&logoColor=white&logoSize=auto">
     <img alt="Static Badge" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-    <img alt="Static Badge" src="https://img.shields.io/badge/godot-blue?style=for-the-badge&logo=godotengine&logoColor=white&logoSize=auto">
     <img alt="Static Badge" src="https://img.shields.io/badge/lua-darkblue?style=for-the-badge&logo=lua&logoColor=white&logoSize=auto">
 </div>
+<br/>
 
 <h1 align="center">=- About me -=</h1>
 <ul align = "center">
   <li>Currently studying software engineering at Codam (part of the 42 Network)</li>
   <li>Hobbies include: game development, making music, learning japanese, endlessly tweaking my configurations</li>
   <li>Always love connecting to and talking with new people!</li>
-  <li> <a href="mailto:ilaivanderveldt@gmail.com">Reach out!</a></li>
+  <!-- <li> <a href="mailto:ilaivanderveldt@gmail.com">Reach out!</a></li> -->
 </ul>
+
+<h2 align="center">-- Technologies I have used --</h2>
+<!-- <img src=""> -->
+
+<h2 align="center">-- Reach out --</h2>
+<br/>
+<div align="center">
+    <p1>
+    <a href="https://www.linkedin.com/in/ilai-van-der-veldt-b6b2563b0/">Linkedin</a> | 
+    <a href="mailto:ilaivanderveldt@gmail.com">Mail</a> | 
+    <a href="https://discordapp.com/users/734740162742976594">Discord</a>
+    </p1>
+</div>
