@@ -1,8 +1,7 @@
 <!-- Languages -->
 <br/>
 <div>
-</div<img alt="Static Badge" src="https://img.shields.io/badge/C-brightgreen?style=for-the-badge&logo=c&logoColor=white">>
-</div<img alt="Static Badge" src="https://img.shields.io/badge/Python-blue?logo=python">>
+<img src="https://img.shields.io/badge/C%20-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <br/>
 <div>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
