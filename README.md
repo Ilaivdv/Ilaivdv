@@ -1,7 +1,8 @@
 <!-- Languages -->
 <br/>
 <div>
-<img src="https://img.shields.io/badge/%23A8B9CC.svg&logo=c&logoColor=white"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/-brightgreen?style=for-the-badge&logo=c&logoColor=white&logoSize=auto">
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow&logoSize=auto">
 <br/>
 <div>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
