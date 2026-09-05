@@ -9,7 +9,7 @@
 <br/>
 
 <h1 align="center">=- About me -=</h1>
-<ul align = "center">
+<ul>
   <li>Currently studying software engineering at Codam (part of the 42 Network)</li>
   <li>Hobbies include: game development, making music, learning japanese, endlessly tweaking my configurations</li>
   <li>Always love connecting with and talking with new people!</li>
