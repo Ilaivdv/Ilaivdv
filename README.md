@@ -12,8 +12,7 @@
 <ul align = "center">
   <li>Currently studying software engineering at Codam (part of the 42 Network)</li>
   <li>Hobbies include: game development, making music, learning japanese, endlessly tweaking my configurations</li>
-  <li>Always love connecting to and talking with new people!</li>
-  <!-- <li> <a href="mailto:ilaivanderveldt@gmail.com">Reach out!</a></li> -->
+  <li>Always love connecting with and talking with new people!</li>
 </ul>
 
 <h1 align="center">-- Technologies I have used --</h1>
