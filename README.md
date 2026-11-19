@@ -2,7 +2,8 @@
 # > About me
 - Currently studying software engineering at CODAM (part of the 42 Network)
 - Hobbies include: game development, making music, learning Japanese, endlessly tweaking my configurations
-- Always love connecting with and talking to new people!
+- Open to internships, collaboration, freelance
+- Always love connecting with and talking to new people so please reach out!
 # > Languages
 [![Languages](https://skillicons.dev/icons?i=c,py,lua,html,css)](https://skillicons.dev)
 <br>
